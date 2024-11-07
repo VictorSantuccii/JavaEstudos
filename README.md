@@ -2,7 +2,7 @@
 
 Este repositório é utilizado para armazenar e organizar os exercícios de programação realizados em **Java**. O objetivo principal é praticar e aprimorar as habilidades de desenvolvimento, aplicando conceitos de **algoritmos**, **estruturas de dados**, **orientação a objetos** e outros tópicos fundamentais para o aprendizado de programação.
 
---
+
 
 ## Descrição
 
